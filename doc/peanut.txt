@@ -1,0 +1,28 @@
+Peanut
+
+https://github.com/kevmoo/peanut.dart
+http://www.dartdocs.org/documentation/peanut/0.0.1+1/index.html#peanut
+
+Activate peanut:
+
+cd C:\Users\ridjanod.FSA-RIDJANOD-2\dart\game\d2048
+C:\Users\ridjanod.FSA-RIDJANOD-2\dart\game\d2048>pub global activate peanut
+
+Run peanut:
+
+C:\Users\ridjanod.FSA-RIDJANOD-2\dart\game\d2048>peanut
+
+Based on https://pub.dartlang.org/packages/peanut:
+
+git update-ref refs/heads/gh-pages origin/gh-pages
+
+Play the game at http://dzenanr.github.io/d2048/web/
+
+See also
+http://leereilly.net/2012/11/29/hosting-games-on-github.html
+
+Alertnative:
+
+git checkout gh-pages
+update the content of the web folder
+git checkout master
