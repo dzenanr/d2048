@@ -1,4 +1,10 @@
-# CHANGELOG
+## Version history of [d2048](https://github.com/dzenanr/d2048)
+
+based on [Semantic Versioning](http://semver.org/)
+
+*0.3.2* 2015-05-01 
+
++ add void where it was not used
 
 *0.3.1* 2015-04-29 
 
